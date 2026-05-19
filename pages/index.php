@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
+=======
+ <!DOCTYPE html>
+>>>>>>> 68107b2 (v1.1 require & db connection)
 <html lang="en">
 <head>
     <meta charset="UTF-8">
