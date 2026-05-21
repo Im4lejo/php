@@ -19,7 +19,9 @@
 
         if(isset($_POST["VaciarCarrito"])){
             $_SESSION["verCarrito"] = array();
-            
+            header("Location: carrito.php");
+
+             exit();
         }
 ?>
 </body>
